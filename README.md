@@ -1,0 +1,1 @@
+MU Safe is a Flutter application that lists emergency call boxes at Mercer’s main (Macon), Law, and Atlanta campuses; the app also shows the user how to get to an emergency call ball, within a 2-mile radius.
